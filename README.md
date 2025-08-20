@@ -9,7 +9,7 @@
 
 
 ###
-- `🌱 I’m currently learning **Solidity, Next JS`**
+- 🌱 I’m currently learning **Solidity, Next JS**
 
 - 💬 Ask me about **HTML,CSS,JS, ReactJS**
 
