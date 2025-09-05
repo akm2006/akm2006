@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Aakash Mandal 👋</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=3399FF&center=true&width=435&lines=Full-Stack+%26+Web3+Developer;Building+Autonomous+On-Chain+Systems;JavaScript+%7C+TypeScript+%7C+Solidity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&pause=1000&color=3399FF&center=true&width=500&lines=Full-Stack+%26+Web3+Developer;Building+Autonomous+On-Chain+Systems;JavaScript+%7C+TypeScript+%7C+Solidity" alt="Typing SVG" />
   </a>
 </div>
 
