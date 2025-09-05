@@ -23,7 +23,7 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
             <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
             <a href="https://www.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-            <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg" alt="NextJS" height="50" /></a>
+            <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://images.prismic.io/staticmania/ZiT7AvPdc1huKqJS_Next.js.jpg?auto=format,compress" alt="NextJS" height="50" /></a>
             <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
             <a href="https://www.w3.org/TR/html5/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
             <a href="https://www.w3.org/TR/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
@@ -38,16 +38,16 @@
 
    <h4>Web3 & Blockchain</h4>
         <p>
-            <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/solidity.svg" alt="Solidity" height="50" /></a>
-            <a href="https://www.ethereum.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ethereum-original.svg" alt="Ethereum" height="50" /></a>
-            <a href="https://book.getfoundry.sh/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/foundry-rs/book/main/src/img/foundry-logo.png" alt="Foundry" height="50" /></a>
-            <a href="https://ethers.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/ethers.svg" alt="Ethers.js" height="50" /></a>
-            <a href="https://chain.link/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chainlink-original.svg" alt="Chainlink" height="50" /></a>
+            <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" alt="Solidity" height="50" /></a>
+            <a href="https://www.ethereum.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" height="50" /></a>
+            <a href="https://book.getfoundry.sh/" target="_blank"><img style="margin: 10px" src="https://getfoundry.sh/og-image.png" alt="Foundry" height="50" /></a>
+            <a href="https://ethers.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SrzayiMhBuo9mjX99_Yg85yyxCLQ6rJCXg&s" alt="Ethers.js" height="50"/></a>
+            <a href="https://chain.link/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/5f6b7190899f41fb70882d08/6656037210b1691e305622e4_logo.svg" alt="Chainlink" height="50" /></a>
         </p>
 
    <h4>Tools & Languages</h4>
         <p>
-            <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="Git" height="50" /></a>
+            <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" height="50" /></a>
             <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
             <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
         </p>
