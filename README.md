@@ -10,9 +10,9 @@
     <td valign="top" width="60%">
       <br>
       <p align="left">
-        I'm a passionate developer specializing in the intersection of blockchain technology, automation, and user-centric web applications. My journey has taken me from foundational web development to building autonomous on-chain agents and complex decentralized platforms. My focus is on leveraging automation to simplify complex blockchain interactions and enhance user experiences.
+        I'm a passionate developer specializing in the intersection of blockchain technology, automation, and user-centric web applications. My journey has taken me from foundational web development to building autonomous on-chain agents and advanced decentralized platforms. I focus on leveraging automation to simplify complex blockchain interactions while prioritizing usability, scalability, and security.
       </p>
-       <br>
+      <br>
       
   <h3>🛠️ My Tech Stack & Tools</h3>
       <details>
@@ -22,11 +22,9 @@
         <p>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
             <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-            <a href="https://www.reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-            <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://images.prismic.io/staticmania/ZiT7AvPdc1huKqJS_Next.js.jpg?auto=format,compress" alt="NextJS" height="50" /></a>
-            <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-            <a href="https://www.w3.org/TR/html5/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-            <a href="https://www.w3.org/TR/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+            <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+            <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://images.prismic.io/staticmania/ZiT7AvPdc1huKqJS_Next.js.jpg?auto=format,compress" alt="Next.js" height="50" /></a>
+            <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
         </p>
 
    <h4>Backend & Database</h4>
@@ -39,7 +37,7 @@
    <h4>Web3 & Blockchain</h4>
         <p>
             <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://docs.soliditylang.org/en/latest/_static/img/logo.svg" alt="Solidity" height="50" /></a>
-            <a href="https://www.ethereum.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" height="50" /></a>
+            <a href="https://ethereum.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" alt="Ethereum" height="50" /></a>
             <a href="https://book.getfoundry.sh/" target="_blank"><img style="margin: 10px" src="https://getfoundry.sh/og-image.png" alt="Foundry" height="50" /></a>
             <a href="https://ethers.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SrzayiMhBuo9mjX99_Yg85yyxCLQ6rJCXg&s" alt="Ethers.js" height="50"/></a>
             <a href="https://chain.link/" target="_blank"><img style="margin: 10px" src="https://cdn.prod.website-files.com/5f6b7190899f41fb70882d08/6656037210b1691e305622e4_logo.svg" alt="Chainlink" height="50" /></a>
@@ -58,7 +56,7 @@
   <h3>📫 Get in Touch</h3>
       <ul>
         <li><strong>Email:</strong> <a href="mailto:akashcomp100@gmail.com">akashcomp100@gmail.com</a></li>
-        <li><strong>X:</strong> <a href="https://x.com/AakashM88827113">@YourTwitterHandle</a></li>
+        <li><strong>X:</strong> <a href="https://x.com/AakashM88827113">@AakashM88827113</a></li>
       </ul>
     </td>
     <td valign="top" width="40%">
@@ -80,6 +78,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Synapse Yield - Automated DeFi Optimizer</h3>
+      <div align="center">
+        <a href="https://github.com/akm2006/synapse-yield" target="_blank">
+          <img src="https://github.com/akm2006/synapse-yield/raw/main/public/logo.png" alt="Synapse Yield Logo" width="80">
+        </a>
+        <p><strong>Maximize DeFi yield on Monad Testnet</strong> using automated rebalancing across protocols like <b>Kintsu</b> and <b>Magma</b>.  
+        Powered by <b>MetaMask Smart Accounts</b>, <b>ERC-4337</b>, and the <b>Delegation Toolkit</b> for secure, non-custodial automation.</p>
+        <p>
+          <a href="https://github.com/akm2006/synapse-yield" target="_blank"><strong>Code Repo</strong></a> &nbsp;|&nbsp;
+          <a href="https://www.hackquest.io/projects/MetaMask-Smart-Accounts-x-Monad-Dev-Cook-Off-Synapse-Yield" target="_blank"><strong>HackQuest Page</strong></a> &nbsp;|&nbsp;
+          <a href="https://www.youtube.com/watch?v=LlatPV-aHzg" target="_blank"><strong>Demo Video</strong></a>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js">
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
+          <img src="https://img.shields.io/badge/-ERC4337-444?style=flat" alt="ERC4337">
+          <img src="https://img.shields.io/badge/-MetaMask%20Delegation-FF6B00?style=flat" alt="MetaMask Delegation">
+          <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js" alt="Node.js">
+          <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB">
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Stellalpha - Autonomous Trading Agent</h3>
       <div align="center">
         <a href="https://github.com/akm2006/stellalpha" target="_blank">
@@ -87,7 +108,7 @@
         </a>
         <p>An autonomous, gasless copy-trading agent for EVM chains. Features an interactive assistant to perform on-chain actions through a simple chat interface.</p>
         <p>
-          <a href="https://github.com/akm2006/stellalpha" target="_blank"><strong>Code Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+          <a href="https://github.com/akm2006/stellalpha" target="_blank"><strong>Code Repo</strong></a> &nbsp;|&nbsp;
           <a href="https://stellalpha.vercel.app" target="_blank"><strong>Live Demo</strong></a>
         </p>
         <p>
@@ -96,10 +117,12 @@
           <img src="https://img.shields.io/badge/-Ethers.js-2C2C37?style=flat&logo=ethereum" alt="Ethers.js">
           <img src="https://img.shields.io/badge/-LangChain-8A2BE2?style=flat" alt="LangChain">
           <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis" alt="Redis">
-          <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css" alt="Tailwind CSS">
         </p>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Foundry FundMe dApp</h3>
       <div align="center">
@@ -108,7 +131,7 @@
         </a>
         <p>A decentralized crowdfunding platform built with Solidity, Foundry, and Chainlink Price Feeds, paired with a vanilla JS frontend.</p>
         <p>
-          <a href="https://github.com/akm2006/Foundry-FundMe" target="_blank"><strong>Smart Contract</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+          <a href="https://github.com/akm2006/Foundry-FundMe" target="_blank"><strong>Smart Contract</strong></a> &nbsp;|&nbsp;
           <a href="https://github.com/akm2006/Foundry-fundme-html-frontend" target="_blank"><strong>Frontend</strong></a>
         </p>
         <p>
@@ -119,16 +142,13 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">LinkNest - Linktree Clone</h3>
       <div align="center">
-        <a href="https://github.com/akm2006/linknest" target="_blank">
-          </a>
+        <a href="https://github.com/akm2006/linknest" target="_blank"></a>
         <p>A full-stack, responsive Linktree clone with real-time previews, built with Next.js, MongoDB, and Tailwind CSS.</p>
         <p>
-          <a href="https://github.com/akm2006/linknest" target="_blank"><strong>Code Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+          <a href="https://github.com/akm2006/linknest" target="_blank"><strong>Code Repo</strong></a> &nbsp;|&nbsp;
           <a href="https://linknest-puce.vercel.app/" target="_blank"><strong>Live Demo</strong></a>
         </p>
         <p>
@@ -139,22 +159,12 @@
         </p>
       </div>
     </td>
-    <td width="50%" valign="top">
-        <h3 align="center">TP-Link Firmware Tools</h3>
-        <div align="center">
-          <a href="https://github.com/akm2006/tplink-firmware-stripper" target="_blank">
-            </a>
-          <p>A practical web tool and guide to strip firmware headers, enabling users to restore TP-Link routers from OpenWRT to stock firmware.</p>
-          <p>
-            <a href="https://github.com/akm2006/tplink-firmware-stripper" target="_blank"><strong>Web App</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="https://github.com/akm2006/tplink-oem-restore" target="_blank"><strong>Guide</strong></a>
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript" alt="TypeScript">
-            <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js" alt="Next.js">
-            <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash" alt="Shell Script">
-          </p>
-        </div>
-    </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <sub>💡 Always exploring new ways to make on-chain systems more autonomous and secure.</sub><br>
+  <sub>© 2025 Aakash Mandal</sub>
+</p>
