@@ -75,7 +75,7 @@ Building high-throughput SVM instruction parsers, confidential Soroban protocols
 
 ---
 
-#### 4. [ProofDrop](https://github.com/akm2006/Proof-Drop) — ZK Private Eligibility & Anti-Duplicate Claim Protocol
+#### 4. ProofDrop — ZK Private Eligibility & Anti-Duplicate Claim Protocol
 > *Poseidon Merkle membership proofs and on-chain nullifiers on Stellar Soroban.*
 
 - **Problem:** Distributing grants, scholarships, or airdrops requires validating user eligibility without exposing identity, while strictly preventing duplicate claims (Sybil resistance).
@@ -83,7 +83,7 @@ Building high-throughput SVM instruction parsers, confidential Soroban protocols
   - Circom eligibility circuits proving knowledge of a secret committed to a Poseidon Merkle tree without revealing the leaf index or recipient identity.
   - Soroban smart contracts atomically verifying Groth16 proofs, registering nullifier hashes, and rejecting duplicate claims with error `NullifierAlreadyUsed`.
 - **Tech Stack:** `Circom 2.x` &bull; `SnarkJS` &bull; `Poseidon Merkle Tree` &bull; `Stellar Soroban` &bull; `Rust` &bull; `Freighter`
-- **Verified Links:** [Code Repository](https://github.com/akm2006/Proof-Drop) &bull; [Verified Claim Transaction](https://stellar.expert/explorer/testnet/tx/ff7ba75035894be52b70f3856cd772cb5e6d6077ccaad9913d20ee5034848197) &bull; [Verifier Contract](https://stellar.expert/explorer/testnet/contract/CAL5F45XD77LBE52HOHM6AFC3S6LH4LV767ONRHHR6PFAFZT5IW6T3ZU)
+- **Verified Links:** [Verified Claim Transaction](https://stellar.expert/explorer/testnet/tx/ff7ba75035894be52b70f3856cd772cb5e6d6077ccaad9913d20ee5034848197) &bull; [Verifier Contract](https://stellar.expert/explorer/testnet/contract/CAL5F45XD77LBE52HOHM6AFC3S6LH4LV767ONRHHR6PFAFZT5IW6T3ZU) &bull; [Campaign Contract](https://stellar.expert/explorer/testnet/contract/CC2MFYRDIMCTFUZACW5MG3OO4MTDQOVXWJTZ5J24PW7WAC4D3TOKQ3SO)
 
 ---
 
@@ -147,7 +147,7 @@ Telemetry & Runtime : ESP32 C++ • FreeRTOS • True RMS DSP • MQTT WebSocket
 | [`solana-wallet-cleaner`](https://github.com/akm2006/solana-wallet-cleaner) | Automated CLI utility scanning SPL and Token-2022 accounts: swaps dust to SOL via Jupiter, burns spam tokens, and closes empty ATAs to reclaim ~0.002 SOL rent per account. | **Solana Automation**<br>`Node.js` &bull; `Jupiter SDK` |
 | [`0xGasless Smart Wallet Debugger`](https://github.com/akm2006/smart-wallet-controller) | Open-source GUI debugger for testing and executing 0xGasless smart accounts directly on Avalanche Mainnet with direct AgentKit controls. | **Developer Tooling**<br>`Viem` &bull; `@0xgasless/agentkit` |
 | [`TP-Link Firmware Stripper`](https://github.com/akm2006/tplink-firmware-stripper)<br>[Live Web Tool](https://tplink-firmware-stripper.vercel.app) | Browser-based client binary buffer tool stripping 131,584-byte OEM bootloader headers for OpenWRT recovery, with an authoritative [Community Restoration Guide](https://github.com/akm2006/tplink-oem-restore). | **Embedded Firmware**<br>`Client Binary Buffer` |
-| [`railway-runner`](https://github.com/akm2006/railway-runner) | Automated algorithmic options execution system deployed on Railway with Supabase observability, support/resistance entry logic, and VPS safeguards. | **Execution Engine**<br>`Python` &bull; `Supabase` &bull; `Railway` |
+| [`gatepass`](https://github.com/akm2006/gatepass) | Multi-role residential campus gate pass management system featuring tokenized multi-step approvals and real-time security QR check-in/out verification. | **Full-Stack Web**<br>`Next.js 15` &bull; `React 19` &bull; `MongoDB` |
 
 ---
 
